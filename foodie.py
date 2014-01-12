@@ -1,6 +1,6 @@
 __author__ = 'NanYoMy'
 import urllib,urllib2,cookielib,re
-#create a opener
+#to create a opener
 def createCookieOpener():
     #the http post data
     #build a cookie opener for meituan.com
